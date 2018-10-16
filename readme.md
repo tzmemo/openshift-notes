@@ -1,7 +1,7 @@
-* Notes on Openshift
+# Notes on Openshift
 
-** Setup
+## Setup
 
-** Config
+## Config
 
-** Misc
+## Misc
